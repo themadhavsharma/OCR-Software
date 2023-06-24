@@ -1,2 +1,0 @@
-print("HEllow ")
-print("world ")
