@@ -1,0 +1,91 @@
+Worksheet: Writing python programs in various modes printing and assigning values to the varibles.
+Task:
+Write a program to enter two numbers and perform all arthmatic operations 
+Write a program to enter the marks of 5 subject and calculate average, total and percentage.
+Write a program to enter length in cm and covert it into meter and kilometer and display the corresponding values orginal and coverted.
+
+For practice only:
+
+Write a program to print the ascii value of a given character 
+Write a program to convert decimal to binary, octal and hexadecimal converstions
+Write a program to find simple interest and compound interest 
+Write a program to find the square root of a given number.
+
+
+Worksheet: Program to demonstrate the use of if, if-else, while, for, break, continue statement.
+Task: 
+Program to check whether a given number is palindrone or not
+Program to check whether a given number is armstrong or not.
+Program to take input of three number and find the greatest of them.
+Program to print the pattern
+----
+Program to find the factorial of the given number.
+
+Task:
+Write a program to calculate area of 10 different circle. (radius of the circle is input by the user. Use parameterised function and return the corresponding values.)
+Write a program to print a multiplication table from two to twenttuy as from the input from the user and  return corresponding values.
+Write a program to find a factorial of a given number using function.
+Write a program to find the root of a quadratic equation.
+
+
+If your are given 3 sticks, you may or maynot be able to arrange them in a triangle. For any 3 length, there is a simple test to see if it is possible to form a triangle. If any of the three length is greater than the sum of the other, then you cannot form the triangle, otherwise you can.9
+
+
+
+EXP 2.1: Program to demonstrate various kind of operators that can be applied to string.
+
+
+
+Worksheet problems (22-03-2023):
+
+Write a python program that takes two list and return true if they have atleast one common member.
+Python program to check whether a list contain sublist or not.
+Python program to remove duplicate from the list.
+
+
+Worksheet 2.3:
+
+1. write a python program to filter a dictionary based on values
+Original dictionary: {'CN': 17, 'COA': 15, 'SE': 16}
+Marks greater than 16: {'CN': 17}
+
+2. WPP to create a dictionary grouping a sequence of key-value pair into dictionary of lists
+Original list: [('Yellow', 1), ('Blue', 2), ('Yellow', 5), ('Red', 1)]
+Grouping sequence of key- value pairs into dictionary of list:
+{'Yellow': [1,3], 'Blue': [2,4], 'red': [1]}
+
+3. Generate and print a dictionary that contain a number (b/w 1 and n) in for as sample input and output
+Input number: 8
+Output: {1:-1, 2:2, 3:7, 4: 14, 5:23, 6:34, 7:47, 8:62}
+
+4. WPP to convert a dictionary into list of lists 
+Original dictionary: {[1:'CSE'],[ 2:'EE'], [3:'ECE'],[ 4:'ME'], [5,'Civil']}
+Convert dictionary into list of lists: [[1, 'CSE'], [2, 'EE], [3, 'ECE'], [4, 'ME'], [5, 'Civil']]
+
+5. Given dictionary in python, write PP to find sum of all items in the dictionary.
+Input: {'x':25, 'y':18, 'z': 45}
+Output: 88
+
+
+Start
+|
+V
+Load image
+|
+V
+Pre-process image (e.g. resize, adjust contrast, etc.)
+|
+V
+Perform OCR on image using a Python OCR library (e.g. Tesseract, OpenCV, PyOCR, etc.)
+|
+V
+Extract text from OCR result
+|
+V
+Clean and refine text (e.g. remove unnecessary characters, correct spelling errors, etc.)
+|
+V
+Output final text
+|
+V
+End

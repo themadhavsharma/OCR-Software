@@ -1,0 +1,27 @@
+HOMEWORK:
+diff between UMA and NUMA
+
+-----IMPORTANT FOR THE EXAMS-----
+
+i:  difference between 
+
+CISC (Complex Instruction Set Computer)                     RISC (Reduced ------)
+-> It has microprogramming unit                             -> It has hard wired programming unit
+-> the Instruction set has various different Instruction    -> the Instruction set is reduced and the Instruction 
+that is used for complex operations                            are primitive
+-> The performance is optimised with impact on hardware     -> ----- on software
+->It has single register set                                -> it has multiple registers
+-> they are less or non pipline                             -> they are highly pipline
+-> execution time is high                                   -> low
+-> code expansion is easily done                            -> cannot be done
+-> the coding of Instruction is complex                     -> the coding is simple
+-> It requires external memory for calculations             -> doesnot require external memory
+-> Single cycle for each Instruction                        -> Instruction can have several clock cycle
+-> Heavy use of RAM                                         -> Efficient use of RAM
+-> Simple and standard instructions                         -> complex and variable lenght instructions
+-> limited addressing mode                                  -> compound addressing mode
+-> varying formats                                          -> fixed 32 bit formats
+-> single cache for instructions and data                   -> separate cache for -----
+->It can be  used in security system or in HOME             -> it is used in smartphones
+automations
+-> example: intel                                           -> alpha and sarc

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "C.C": "cpp",
+        "Task1.C": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    },
+    "python.formatting.provider": "black"
+}
